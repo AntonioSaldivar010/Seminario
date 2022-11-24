@@ -1,1 +1,1 @@
-# Seminario
+# Seminario de Programación Estructurada Avanzada
